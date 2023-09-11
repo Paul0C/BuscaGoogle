@@ -1,0 +1,11 @@
+#divPesquisa{
+    align-items: center;
+}
+
+#resultados{
+    align-items: center;
+}
+
+.resultado{
+    margin-bottom: 5px;
+}
